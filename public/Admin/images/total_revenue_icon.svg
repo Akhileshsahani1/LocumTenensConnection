@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="47" height="44" viewBox="0 0 47 44">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.045" y1="0.821" x2="0.782" y2="0.208" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2e2d76"/>
+      <stop offset="1" stop-color="#a8d1fd"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_4622" data-name="Group 4622" transform="translate(-1348 -131)">
+    <rect id="Rectangle_1950" data-name="Rectangle 1950" width="47" height="44" rx="9" transform="translate(1348 131)" fill="url(#linear-gradient)"/>
+    <g id="Group_3884" data-name="Group 3884" transform="translate(-44.878 6.193)">
+      <path id="Icon_awesome-money-bill-alt" data-name="Icon awesome-money-bill-alt" d="M23.138,4.5H1.218A1.218,1.218,0,0,0,0,5.718V17.9a1.218,1.218,0,0,0,1.218,1.218h21.92A1.218,1.218,0,0,0,24.355,17.9V5.718A1.218,1.218,0,0,0,23.138,4.5ZM1.827,17.287V14.851a2.435,2.435,0,0,1,2.436,2.436Zm0-8.524V6.327H4.262A2.435,2.435,0,0,1,1.827,8.762Zm10.351,7.307c-2.018,0-3.653-1.908-3.653-4.262s1.636-4.262,3.653-4.262,3.653,1.908,3.653,4.262S14.195,16.069,12.178,16.069Zm10.351,1.218H20.093a2.435,2.435,0,0,1,2.436-2.436Zm0-8.524a2.435,2.435,0,0,1-2.436-2.436h2.436Z" transform="translate(1404.2 135)" fill="#fff"/>
+      <text id="_" data-name="$" transform="translate(1414.878 148.806)" fill="#fff" font-size="6" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">$</tspan></text>
+    </g>
+  </g>
+</svg>

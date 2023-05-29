@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="47" height="44" viewBox="0 0 47 44">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.045" y1="0.821" x2="0.782" y2="0.208" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2e2d76"/>
+      <stop offset="1" stop-color="#a8d1fd"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_4618" data-name="Group 4618" transform="translate(-606 -131)">
+    <rect id="Rectangle_1948" data-name="Rectangle 1948" width="47" height="44" rx="9" transform="translate(606 131)" fill="url(#linear-gradient)"/>
+    <g id="certification" transform="translate(615.124 142)">
+      <path id="Path_36" data-name="Path 36" d="M30.274,8H2.479A.479.479,0,0,0,2,8.479v18.21a.479.479,0,0,0,.479.479H19.731v3.354a.473.473,0,0,0,.733.4l2.621-1.74,2.612,1.74a.479.479,0,0,0,.743-.4V27.169h3.834a.479.479,0,0,0,.479-.479V8.479A.479.479,0,0,0,30.274,8ZM23.085,25.731a3.354,3.354,0,1,1,3.354-3.354A3.354,3.354,0,0,1,23.085,25.731Zm6.709.479H26.44v-.958a.422.422,0,0,0-.029-.134,4.313,4.313,0,1,0-6.651,0,.422.422,0,0,0-.029.134v.958H2.958V8.958H29.794Z" transform="translate(-2 -8)" fill="#fff"/>
+      <path id="Path_37" data-name="Path 37" d="M9.917,17.834H29.085a1.917,1.917,0,1,0,0-3.834H9.917a1.917,1.917,0,1,0,0,3.834Z" transform="translate(-5.125 -11.125)" fill="#fff"/>
+      <path id="Path_38" data-name="Path 38" d="M30.709,27h-6.23a.479.479,0,1,0,0,.958h6.23a.479.479,0,1,0,0-.958Z" transform="translate(-13.457 -17.895)" fill="#fff"/>
+      <path id="Path_39" data-name="Path 39" d="M23.584,34H14.479a.479.479,0,0,0,0,.958h9.105a.479.479,0,1,0,0-.958Z" transform="translate(-8.249 -21.54)" fill="#fff"/>
+      <ellipse id="Ellipse_12" data-name="Ellipse 12" cx="1.812" cy="2.174" rx="1.812" ry="2.174" transform="translate(19.45 12.227)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

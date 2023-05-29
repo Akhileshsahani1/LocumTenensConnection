@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.045" y1="0.821" x2="0.782" y2="0.208" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#207f8e"/>
+      <stop offset="1" stop-color="#89dfed"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_4503" data-name="Group 4503" transform="translate(-606 -144)">
+    <rect id="Rectangle_1948" data-name="Rectangle 1948" width="44" height="44" rx="22" transform="translate(606 144)" fill="url(#linear-gradient)"/>
+    <path id="Icon_ionic-ios-arrow-forward" data-name="Icon ionic-ios-arrow-forward" d="M19.141,16.076,11.661,8.6a1.407,1.407,0,0,1,0-2,1.424,1.424,0,0,1,2,0l8.475,8.469a1.41,1.41,0,0,1,.041,1.948l-8.51,8.528a1.413,1.413,0,1,1-2-2Z" transform="translate(610.754 149.805)" fill="#fff"/>
+  </g>
+</svg>

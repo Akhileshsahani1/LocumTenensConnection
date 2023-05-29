@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.6" height="19.75" viewBox="0 0 18.6 19.75">
+  <g id="Group_4548" data-name="Group 4548" transform="translate(-50.4 -384.25)">
+    <g id="Icon_feather-calendar" data-name="Icon feather-calendar" transform="translate(46.65 382)">
+      <path id="Path_1429" data-name="Path 1429" d="M6,6H16.5A1.5,1.5,0,0,1,18,7.5V18a1.5,1.5,0,0,1-1.5,1.5H6A1.5,1.5,0,0,1,4.5,18V7.5A1.5,1.5,0,0,1,6,6Z" transform="translate(0 -1.5)" fill="none" stroke="#113c6f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_1430" data-name="Path 1430" d="M24,3V6" transform="translate(-9.75)" fill="none" stroke="#113c6f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_1431" data-name="Path 1431" d="M12,3V6" transform="translate(-3.75)" fill="none" stroke="#113c6f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_1432" data-name="Path 1432" d="M4.5,15H18" transform="translate(0 -6)" fill="none" stroke="#113c6f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+    <g id="Group_4547" data-name="Group 4547">
+      <circle id="Ellipse_516" data-name="Ellipse 516" cx="5" cy="5" r="5" transform="translate(59 394)" fill="#fff"/>
+      <path id="Icon_ionic-ios-checkmark-circle" data-name="Icon ionic-ios-checkmark-circle" d="M7.375,3.375a4,4,0,1,0,4,4A4,4,0,0,0,7.375,3.375ZM9.423,6.269,6.852,8.852h0a.347.347,0,0,1-.223.106.337.337,0,0,1-.225-.11L5.325,7.771a.077.077,0,0,1,0-.11l.342-.342a.074.074,0,0,1,.108,0l.854.854L8.975,5.81a.076.076,0,0,1,.054-.023h0a.07.07,0,0,1,.054.023l.337.348A.076.076,0,0,1,9.423,6.269Z" transform="translate(56.4 391.625)" fill="#113c6f"/>
+    </g>
+  </g>
+</svg>
